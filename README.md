@@ -12,7 +12,7 @@ Check it out [http://ror-workshops.herokuapp.com/](http://ror-workshops.herokuap
 
 ### :closed_lock_with_key: Technology stack
 -------------
-
+ 
 | Name |  Version |
 | :--: | :---: |
 | [Ruby](https://www.ruby-lang.org) | 2.2.3 |
